@@ -1,1 +1,3 @@
 # minesweep
+
+read me updated
